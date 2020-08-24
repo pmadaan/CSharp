@@ -1,0 +1,13 @@
+D:\Job\Code\Practice\Amazon\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.exe
+D:\Job\Code\Practice\Amazon\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.deps.json
+D:\Job\Code\Practice\Amazon\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.json
+D:\Job\Code\Practice\Amazon\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.dev.json
+D:\Job\Code\Practice\Amazon\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.dll
+D:\Job\Code\Practice\Amazon\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.pdb
+D:\Job\Code\Practice\Amazon\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csprojAssemblyReference.cache
+D:\Job\Code\Practice\Amazon\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfoInputs.cache
+D:\Job\Code\Practice\Amazon\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfo.cs
+D:\Job\Code\Practice\Amazon\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.CoreCompileInputs.cache
+D:\Job\Code\Practice\Amazon\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.dll
+D:\Job\Code\Practice\Amazon\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.pdb
+D:\Job\Code\Practice\Amazon\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache
