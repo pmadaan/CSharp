@@ -29,6 +29,7 @@ namespace LeetCode
                 }
             }
 
+            
            return freq.OrderByDescending(x => x.Value).ThenBy(x => x.Key).Select(x => x.Key).Take(k).ToList();
 
         }

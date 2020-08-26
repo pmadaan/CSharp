@@ -17,8 +17,43 @@ namespace LeetCode
             ////https://leetcode.com/problems/search-suggestions-system/
             //suggestionsTest();
 
-            //https://leetcode.com/problems/number-of-islands/
-            islandsTest();
+            ////https://leetcode.com/problems/number-of-islands/
+            //islandsTest();
+
+            ////https://leetcode.com/discuss/interview-question/370112
+            //substringsTest();
+
+            //https://leetcode.com/discuss/interview-question/762546/
+            promotionsTest();
+        }
+
+        static void promotionsTest()
+        {
+            Promotions p = new Promotions();
+            
+            List<List<string>> c = new List<List<string>> { new List<string>{ "apple", "apple" }, new List<string>{ "banana", "anything", "banana" } };
+            List<string> s = new List<string> { "orange", "apple", "apple", "banana", "orange", "banana" };
+            Console.WriteLine(p.IsWinner(c, s));
+
+            s = new List<string> { "banana", "orange", "banana", "apple", "apple" };
+            Console.WriteLine(p.IsWinner(c, s));
+
+        }
+
+        static void substringsTest()
+        {
+            Substrings s = new Substrings();
+            List<string> subs = s.getUniqueSubstrings("abcabc", 3);
+            subs.ForEach(i => Console.Write("{0}\t", i));
+            Console.WriteLine();
+
+            subs = s.getUniqueSubstrings("abacab", 3);
+            subs.ForEach(i => Console.Write("{0}\t", i));
+            Console.WriteLine();
+
+            subs = s.getUniqueSubstrings("awaglknagawunagwkwagl", 4);
+            subs.ForEach(i => Console.Write("{0}\t", i));
+            Console.WriteLine();
         }
 
         static void islandsTest()
