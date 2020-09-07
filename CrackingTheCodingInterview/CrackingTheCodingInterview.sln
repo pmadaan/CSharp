@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{6A18C21C-F65C-49DC-AF9D-3633A508DC75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{6A18C21C-F65C-49DC-AF9D-3633A508DC75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksQueues", "StacksQueues\StacksQueues.csproj", "{12776AF4-EA36-4CD2-AE03-BE12E0733BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreesGraphs", "TreesGraphs\TreesGraphs.csproj", "{59DE874E-8286-4E5B-A39C-7A6A640B39FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6A18C21C-F65C-49DC-AF9D-3633A508DC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A18C21C-F65C-49DC-AF9D-3633A508DC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A18C21C-F65C-49DC-AF9D-3633A508DC75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12776AF4-EA36-4CD2-AE03-BE12E0733BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12776AF4-EA36-4CD2-AE03-BE12E0733BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12776AF4-EA36-4CD2-AE03-BE12E0733BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12776AF4-EA36-4CD2-AE03-BE12E0733BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59DE874E-8286-4E5B-A39C-7A6A640B39FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DE874E-8286-4E5B-A39C-7A6A640B39FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DE874E-8286-4E5B-A39C-7A6A640B39FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DE874E-8286-4E5B-A39C-7A6A640B39FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

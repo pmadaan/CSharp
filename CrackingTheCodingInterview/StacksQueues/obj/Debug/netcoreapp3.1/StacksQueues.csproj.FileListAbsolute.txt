@@ -1,0 +1,13 @@
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.exe
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.deps.json
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.runtimeconfig.json
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.runtimeconfig.dev.json
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.dll
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.pdb
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.csprojAssemblyReference.cache
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.AssemblyInfoInputs.cache
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.AssemblyInfo.cs
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.csproj.CoreCompileInputs.cache
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.dll
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.pdb
+D:\Job\Code\Practice\CrackingTheCodingInterview\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.genruntimeconfig.cache
