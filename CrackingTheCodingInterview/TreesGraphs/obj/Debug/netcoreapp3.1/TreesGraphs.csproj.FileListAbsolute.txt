@@ -1,0 +1,13 @@
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\bin\Debug\netcoreapp3.1\TreesGraphs.exe
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\bin\Debug\netcoreapp3.1\TreesGraphs.deps.json
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\bin\Debug\netcoreapp3.1\TreesGraphs.runtimeconfig.json
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\bin\Debug\netcoreapp3.1\TreesGraphs.runtimeconfig.dev.json
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\bin\Debug\netcoreapp3.1\TreesGraphs.dll
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\bin\Debug\netcoreapp3.1\TreesGraphs.pdb
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\obj\Debug\netcoreapp3.1\TreesGraphs.csprojAssemblyReference.cache
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\obj\Debug\netcoreapp3.1\TreesGraphs.AssemblyInfoInputs.cache
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\obj\Debug\netcoreapp3.1\TreesGraphs.AssemblyInfo.cs
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\obj\Debug\netcoreapp3.1\TreesGraphs.csproj.CoreCompileInputs.cache
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\obj\Debug\netcoreapp3.1\TreesGraphs.dll
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\obj\Debug\netcoreapp3.1\TreesGraphs.pdb
+D:\Job\Code\Practice\CrackingTheCodingInterview\TreesGraphs\obj\Debug\netcoreapp3.1\TreesGraphs.genruntimeconfig.cache

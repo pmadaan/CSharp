@@ -6,7 +6,10 @@ namespace TreesGraphs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("enter something");
+            string n = Console.ReadLine();
+
+            Console.WriteLine("Hello Ji " + n);
         }
     }
 }

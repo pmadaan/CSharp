@@ -1,0 +1,13 @@
+D:\Job\Code\Practice\Misc\BehaviourInteractive\bin\Debug\netcoreapp3.1\BehaviourInteractive.exe
+D:\Job\Code\Practice\Misc\BehaviourInteractive\bin\Debug\netcoreapp3.1\BehaviourInteractive.deps.json
+D:\Job\Code\Practice\Misc\BehaviourInteractive\bin\Debug\netcoreapp3.1\BehaviourInteractive.runtimeconfig.json
+D:\Job\Code\Practice\Misc\BehaviourInteractive\bin\Debug\netcoreapp3.1\BehaviourInteractive.runtimeconfig.dev.json
+D:\Job\Code\Practice\Misc\BehaviourInteractive\bin\Debug\netcoreapp3.1\BehaviourInteractive.dll
+D:\Job\Code\Practice\Misc\BehaviourInteractive\bin\Debug\netcoreapp3.1\BehaviourInteractive.pdb
+D:\Job\Code\Practice\Misc\BehaviourInteractive\obj\Debug\netcoreapp3.1\BehaviourInteractive.csprojAssemblyReference.cache
+D:\Job\Code\Practice\Misc\BehaviourInteractive\obj\Debug\netcoreapp3.1\BehaviourInteractive.AssemblyInfoInputs.cache
+D:\Job\Code\Practice\Misc\BehaviourInteractive\obj\Debug\netcoreapp3.1\BehaviourInteractive.AssemblyInfo.cs
+D:\Job\Code\Practice\Misc\BehaviourInteractive\obj\Debug\netcoreapp3.1\BehaviourInteractive.csproj.CoreCompileInputs.cache
+D:\Job\Code\Practice\Misc\BehaviourInteractive\obj\Debug\netcoreapp3.1\BehaviourInteractive.dll
+D:\Job\Code\Practice\Misc\BehaviourInteractive\obj\Debug\netcoreapp3.1\BehaviourInteractive.pdb
+D:\Job\Code\Practice\Misc\BehaviourInteractive\obj\Debug\netcoreapp3.1\BehaviourInteractive.genruntimeconfig.cache

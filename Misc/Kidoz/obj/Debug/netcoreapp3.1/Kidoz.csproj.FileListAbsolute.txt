@@ -1,0 +1,13 @@
+D:\Job\Code\Practice\Misc\Kidoz\bin\Debug\netcoreapp3.1\Kidoz.exe
+D:\Job\Code\Practice\Misc\Kidoz\bin\Debug\netcoreapp3.1\Kidoz.deps.json
+D:\Job\Code\Practice\Misc\Kidoz\bin\Debug\netcoreapp3.1\Kidoz.runtimeconfig.json
+D:\Job\Code\Practice\Misc\Kidoz\bin\Debug\netcoreapp3.1\Kidoz.runtimeconfig.dev.json
+D:\Job\Code\Practice\Misc\Kidoz\bin\Debug\netcoreapp3.1\Kidoz.dll
+D:\Job\Code\Practice\Misc\Kidoz\bin\Debug\netcoreapp3.1\Kidoz.pdb
+D:\Job\Code\Practice\Misc\Kidoz\obj\Debug\netcoreapp3.1\Kidoz.csprojAssemblyReference.cache
+D:\Job\Code\Practice\Misc\Kidoz\obj\Debug\netcoreapp3.1\Kidoz.AssemblyInfoInputs.cache
+D:\Job\Code\Practice\Misc\Kidoz\obj\Debug\netcoreapp3.1\Kidoz.AssemblyInfo.cs
+D:\Job\Code\Practice\Misc\Kidoz\obj\Debug\netcoreapp3.1\Kidoz.csproj.CoreCompileInputs.cache
+D:\Job\Code\Practice\Misc\Kidoz\obj\Debug\netcoreapp3.1\Kidoz.dll
+D:\Job\Code\Practice\Misc\Kidoz\obj\Debug\netcoreapp3.1\Kidoz.pdb
+D:\Job\Code\Practice\Misc\Kidoz\obj\Debug\netcoreapp3.1\Kidoz.genruntimeconfig.cache
